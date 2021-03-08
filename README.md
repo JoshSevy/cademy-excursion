@@ -45,13 +45,12 @@ Finished Page:
 
 ![finished](assets/excursion.png)
 
-
-Continuing my fluency with Angular and building a single page application with multiple routes with some fun style elements. Practice makes progress, lets get to learning and building some fun reusable components.
+CodeCademy exercise just taking it back to the basics.
 
 ### Built With
 
-- [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html&logoColor=ffff3f)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-- [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=ffff3f)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ## Contact
