@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 1em;
+}
+
+p {
+  font-size: 1.2em;
+  color: gray;
+}
+
+.main-heading {
+  font-weight: 400;
+  font-size: 3.1em;
+}
