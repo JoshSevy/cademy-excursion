@@ -15,7 +15,26 @@ p {
   color: gray;
 }
 
+img {
+  padding-bottom: 2em;
+}
+
 .main-heading {
   font-weight: 400;
   font-size: 3.1em;
+}
+
+.sub-heading {
+  font-weight: 300;
+  font-size: 2.1em;
+}
+
+.statement {
+  color: gray;
+  font-size: 1.4em;
+}
+
+.copywrite {
+  color: gray;
+  text-align: right;
 }
