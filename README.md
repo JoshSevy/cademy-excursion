@@ -50,8 +50,8 @@ Continuing my fluency with Angular and building a single page application with m
 
 ### Built With
 
-- [![HTML5](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)](https://typescriptlang.com)
-- [![CSS](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)](https://angular.io)
+- [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html&logoColor=ffff3f)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ## Contact
